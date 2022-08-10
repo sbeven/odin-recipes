@@ -1,2 +1,3 @@
 # odin-recipes
-Odin project recipes project
+This project will help me learn how to make my first website
+
